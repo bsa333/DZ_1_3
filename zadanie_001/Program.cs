@@ -3,6 +3,7 @@
 // 12821 -> да
 // 23432 -> да
 
+Console.Clear();
 Console.WriteLine("Задача 19");
 Console.Write("Введите число: ");
 string? number = Console.ReadLine();
